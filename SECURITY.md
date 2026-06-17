@@ -1,6 +1,6 @@
 # Security Policy
 
-Notulee runs entirely in your browser and stores notes locally — but if you believe
+Notulee runs entirely in your browser or on your computer and stores notes locally — but if you believe
 you've found a security or privacy vulnerability, we want to fix it quickly and quietly.
 
 ## Please do **not** open a public issue for security problems
