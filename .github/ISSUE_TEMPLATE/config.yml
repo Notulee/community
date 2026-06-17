@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "💡 Idea, feature request, question, or tip"
+    url: https://github.com/Notulee/community/discussions
+    about: "Ideas, questions, and tips live in Discussions — pick a category there."
+  - name: "🔒 Security vulnerability"
+    url: https://github.com/Notulee/community/security/policy
+    about: "Please report security issues privately — not as a public issue."
